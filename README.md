@@ -58,3 +58,5 @@
 - `git tag`
 - `git tag <tag-name>`
 - `git push origin <tag-name>`
+
+This is the git commands
